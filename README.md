@@ -49,6 +49,10 @@ Below is a complete list of commands that will help you install and configure ou
 
    This point can be viewed [here](https://github.com/NikitaPrimakov/Certificate?tab=readme-ov-file#certificate-issue "Gitlab certificate-issue").
 
+# Gitlab-runner
+
+## Intruduction
+
+GitLab Runner is an open source application that performs GitLab CI/CD pipelining tasks according to instructions from a special file. gitlab-ci. yml . It allows you to run automated builds inside a Managed Service for Kubernetes cluster.
 
 ## Install Gitlab-runner
-
