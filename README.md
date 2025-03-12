@@ -116,3 +116,7 @@ check_interval = 0
     [runners.cache.s3]
     [runners.cache.gcs]
 ```
+
+# Conclusion
+
+We installed the GitLab server and integrated Gitlab runner.
