@@ -12,7 +12,7 @@
 
    2.2 [Install Gitlab-runner](https://github.com/NikitaPrimakov/GitLab#install-gitlab-runner "Install Gitlab-runner")
 
-3. Conclusion
+3. [Conclusion](https://github.com/NikitaPrimakov/GitLab#conclusion "Conclusion")
 
 # Gitlab-server
 
